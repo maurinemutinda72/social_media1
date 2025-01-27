@@ -1,6 +1,7 @@
 ## React Social Dashboard
 
-This is a React application for a user dashboard that includes notifications, a user profile, a news feed, and a comments section. The app is designed to demonstrate interactive components, dynamic state management, and polished styling.
+This is a React application for a user dashboard that includes notifications, a user profile, a news feed, and a comments section. The app is designed to demonstrate interactive components, dynamic state management, and polished styling.Find the platform here- https://vercel.com/maurinemutinda72s-projects/social-media1
+
 
 ### Features
 
